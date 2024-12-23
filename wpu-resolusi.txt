@@ -2,4 +2,4 @@ WPU RESOLUSI
 - instal laragon
 - Git Version
 - belajar basic php
-- belajar laragon
+- menonton video
