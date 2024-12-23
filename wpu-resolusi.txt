@@ -1,0 +1,4 @@
+WPU RESOLUSI
+- instal laragon
+- Git Version
+- belajar basic php
